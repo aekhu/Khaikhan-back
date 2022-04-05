@@ -1,0 +1,17 @@
+{
+  "debug": true,
+  "database": {
+    "db_host": "localhost",
+    "db_port": "5432",
+    "db_user": "admin",
+    "db_name": "khairkhan",
+    "db_pass": "password",
+    "db_ssl_mode": "disable"
+  },
+  "service": {
+    "port": "9000",
+    "url": "http://localhost",
+    "web_url": "web_url",
+    "api_url": "api_url"
+  }
+}

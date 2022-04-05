@@ -1,0 +1,23 @@
+{
+    "debug": false,
+    "bolorlogin": {
+        "token": "token",
+        "key": "key",
+        "auth_url": "/authenticate",
+        "name": "name"
+    },
+    "database": {
+        "db_host": "db_host",
+        "db_port": "db_port",
+        "db_user": "db_user",
+        "db_name": "db_name",
+        "db_pass": "db_pass",
+        "db_ssl_mode": "db_ssl_mode"
+    },
+    "service": {
+        "port": ":port",
+        "url": "url",
+        "web_url": "web_url",
+        "api_url": "api_url"
+    }
+}
